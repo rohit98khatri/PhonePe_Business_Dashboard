@@ -1,6 +1,6 @@
 # PhonePe_Business_Dashboard
 🧩 Overview
-The PhonePe Business Dashboard is a data analytics and visualization project built using Power BI, SQL, Python, and Excel. It analyzes one year of transaction data from the PhonePe digital payment ecosystem to uncover insights about user behavior, merchant performance, and regional adoption trends.
+The PhonePe Business Dashboard is a data analytics and visualization project built using Power BI, SQL and Excel. It analyzes one year of transaction data from the PhonePe digital payment ecosystem to uncover insights about user behavior, merchant performance, and regional adoption trends.
 
 This dashboard provides a unified view of key business metrics, enabling stakeholders to make data‑driven decisions and monitor growth across India’s digital payment landscape.
 
